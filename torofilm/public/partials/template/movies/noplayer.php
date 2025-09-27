@@ -1,0 +1,1 @@
+<section class="section player dfxc jst-sb player-trailer">    <aside class="video-player aa-cn" id="aa-options">        <div class="video aa-tb hdd on">            <?php echo htmlspecialchars_decode(get_post_meta(get_the_ID(), 'field_trailer', true)); ?>        </div>    </aside></section>

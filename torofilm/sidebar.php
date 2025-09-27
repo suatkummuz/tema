@@ -1,0 +1,1 @@
+<?php $sidebar_position = get_option( 'sidebar_type', false ); if($sidebar_position != 'side-none'){ ?><aside class="sidebar">	<div>		<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('sidebar-principal')) : endif; ?>	</div></aside><?php } ?>

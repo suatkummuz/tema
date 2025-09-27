@@ -1,0 +1,1 @@
+<?php get_header(); ?><div class="bd">	<?php get_template_part( 'public/partials/template/home', 'search' ); ?>	<div class="dfxc">		<main class="main-site">			<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('sidebar-home')) : endif; ?>		</main>		<?php get_sidebar(); ?>	</div></div><?php get_footer(); ?>

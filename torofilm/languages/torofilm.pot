@@ -1,0 +1,669 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: torofilm\n"
+"POT-Creation-Date: 2020-05-23 13:28-0500\n"
+"PO-Revision-Date: 2020-05-23 13:28-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:1
+msgid "Oops!..."
+msgstr ""
+
+#: 404.php:1
+msgid "The page you are looking for does not exist..."
+msgstr ""
+
+#: 404.php:1
+msgid "Back to Home"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Default"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Colors"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Background Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Text Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Links Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Links Color Hover"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Primary Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Tertiary Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Dark Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Light Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Gray Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Gray Dark Color"
+msgstr ""
+
+#: admin/customizer/class-torofilm-color.php:1
+msgid "Gray Light Color"
+msgstr ""
+
+#: archive-movies.php:1 author.php:1 category.php:27
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_popular.php:1
+msgid "Movies"
+msgstr ""
+
+#: archive-series.php:1 author.php:1 category.php:28
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_popular.php:1
+msgid "Series"
+msgstr ""
+
+#: author.php:1
+msgid "You haven't written anything about yourself"
+msgstr ""
+
+#: author.php:1 public/partials/do_action/do_action_episodes.php:81
+#: public/partials/do_action/do_action_series.php:92
+#: public/partials/do_action/do_action_single.php:231
+msgid "Favorites"
+msgstr ""
+
+#: author.php:1 public/partials/do_action/do_action_series.php:60
+msgid "Episodes"
+msgstr ""
+
+#: author.php:1
+msgid "Settings"
+msgstr ""
+
+#: author.php:1
+msgid "Favorites Movies"
+msgstr ""
+
+#: author.php:1
+msgid "No results"
+msgstr ""
+
+#: author.php:1
+msgid "Favorites Series"
+msgstr ""
+
+#: author.php:1
+msgid "Favorites Episodes"
+msgstr ""
+
+#: author.php:1
+msgid "Edit profile"
+msgstr ""
+
+#: author.php:1
+msgid "Change avatar"
+msgstr ""
+
+#: author.php:1
+msgid "Choose image"
+msgstr ""
+
+#: author.php:1
+msgid "Country"
+msgstr ""
+
+#: author.php:1
+msgid "Select your country"
+msgstr ""
+
+#: author.php:1
+msgid "Date of birth"
+msgstr ""
+
+#: author.php:1
+msgid "About you"
+msgstr ""
+
+#: author.php:1
+msgid "Save Changes"
+msgstr ""
+
+#: author.php:1
+msgid "Change password"
+msgstr ""
+
+#: author.php:1
+msgid "Current password"
+msgstr ""
+
+#: author.php:1
+msgid "New password"
+msgstr ""
+
+#: author.php:1
+msgid "Repeat password"
+msgstr ""
+
+#: author.php:1
+msgid "Update Password"
+msgstr ""
+
+#: category.php:26 includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:51 search.php:27
+msgid "All"
+msgstr ""
+
+#: category.php:29 includes/widgets/torofilm_widget_news.php:171 search.php:28
+msgid "News"
+msgstr ""
+
+#: comments.php:1 includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:180
+#: public/partials/template/post-main.php:10
+msgid "Comments"
+msgstr ""
+
+#: comments.php:1
+msgid "Comments are closed."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:23
+msgid "Theme License"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:24
+msgid "Enter your theme license key."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:25
+msgid "License Key"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:26
+msgid "License Action"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:27
+msgid "Deactivate License"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:28
+msgid "Activate License"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:29
+#: helpers/theme-updater/updater/theme-updater.php:41
+msgid "License status is unknown."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:30
+msgid "Renew?"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:31
+msgid "unlimited"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:32
+msgid "License key is active."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:33
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:34
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:35
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:36
+msgid "License key has expired."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:37
+msgid "License keys do not match."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:38
+msgid "License is inactive."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:39
+msgid "License key is disabled."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:40
+msgid "Site is inactive."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:42
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:43
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: includes/class-torofilm-ajax-pubic.php:45
+#: public/partials/do_action/do_action_episodes.php:251
+#: public/partials/do_action/do_action_series.php:166
+#: public/partials/do_action/do_action_series.php:232
+#: public/partials/do_action/do_action_series.php:298 taxonomy-seasons.php:51
+msgid "ago"
+msgstr ""
+
+#: includes/class-torofilm-ajax-pubic.php:48
+#: public/partials/do_action/do_action_episodes.php:254
+#: public/partials/do_action/do_action_series.php:169
+#: public/partials/do_action/do_action_series.php:235 taxonomy-seasons.php:53
+msgid "View"
+msgstr ""
+
+#: includes/class-torofilm-ajax-pubic.php:204
+#: includes/class-torofilm-ajax-pubic.php:235
+msgid "Results"
+msgstr ""
+
+#: includes/class-torofilm-ajax-pubic.php:213
+#: includes/class-torofilm-ajax-pubic.php:244
+msgid "More results"
+msgstr ""
+
+#: includes/class-torofilm-ajax-pubic.php:216
+#: includes/class-torofilm-ajax-pubic.php:247
+#: includes/class-torofilm-ajax-pubic.php:306
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:130 taxonomy-letters.php:1
+#: taxonomy-seasons.php:60
+msgid "No results found"
+msgstr ""
+
+#: includes/class-torofilm-sidebar.php:1
+msgid "Sidebar"
+msgstr ""
+
+#: includes/class-torofilm-sidebar.php:1
+msgid "Home Widgets"
+msgstr ""
+
+#: includes/customizer.php:67
+msgid "Home"
+msgstr ""
+
+#: includes/customizer.php:322
+msgid "Text \"Option\" in player options"
+msgstr ""
+
+#: includes/customizer.php:390
+msgid "Poster Option"
+msgstr ""
+
+#: includes/customizer.php:402
+msgid "Poster Option View"
+msgstr ""
+
+#: includes/customizer.php:403
+msgid "Select options to show in poster of series and movies"
+msgstr ""
+
+#: includes/customizer.php:414
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer.php:426 includes/customizer.php:437
+msgid "Text"
+msgstr ""
+
+#: includes/torofilm-functions.php:24
+msgid "PREV"
+msgstr ""
+
+#: includes/torofilm-functions.php:43
+msgid "NEXT"
+msgstr ""
+
+#: includes/torofilm-functions.php:161 includes/torofilm-functions.php:166
+#: includes/torofilm-functions.php:168 includes/torofilm-functions.php:175
+#: includes/torofilm-functions.php:179 includes/torofilm-functions.php:181
+#: includes/torofilm-functions.php:192 includes/torofilm-functions.php:194
+#: includes/torofilm-functions.php:198
+#, php-format
+msgid "Image %s"
+msgstr ""
+
+#: includes/torofilm-functions.php:211 includes/torofilm-functions.php:215
+#: includes/torofilm-functions.php:217
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_alphabet.php:1
+#: includes/widgets/torofilm_widget_annee.php:1
+#: includes/widgets/torofilm_widget_list_episodes.php:73
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:157
+#: includes/widgets/torofilm_widget_news.php:178
+#: includes/widgets/torofilm_widget_popular.php:1
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_episodes.php:27
+#: public/partials/template/post-main.php:16
+msgid "Read more"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_episodes.php:77
+msgid "Number of items"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:45
+msgid "View more"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+msgid "Number of movies/series"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:169
+msgid "Type"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:175
+msgid "Filter by"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:177
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:179
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:181
+msgid "Views"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:182
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:185
+msgid "Category Filter"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_news.php:161
+msgid "Number of news"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_popular.php:1
+msgid "Activate"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_popular.php:1
+msgid "Number"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:61
+#: public/partials/do_action/do_action_series.php:70
+#: public/partials/do_action/do_action_single.php:206
+msgid "Director"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:66
+#: public/partials/do_action/do_action_series.php:76
+#: public/partials/do_action/do_action_single.php:212
+msgid "Cast"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:79
+#: public/partials/do_action/do_action_single.php:84
+#: public/partials/do_action/do_action_single.php:228 taxonomy-episodes.php:53
+msgid "Download"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:146
+#: public/partials/do_action/do_action_single.php:291
+msgid "OPTIONS"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:150
+#: public/partials/do_action/do_action_single.php:295
+msgid "OPTION"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:205
+#: public/partials/do_action/do_action_series.php:120
+msgid "choose season"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:205
+#: public/partials/do_action/do_action_series.php:57
+msgid "Seasons"
+msgstr ""
+
+#: public/partials/do_action/do_action_episodes.php:272
+#: public/partials/do_action/do_action_series.php:325
+msgid "Recommended Series"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+#: public/partials/do_action/do_action_header.php:1
+msgid "Login"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "User"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Password"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Forgot your password?"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Dont have account?"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Sign Up"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+#: public/partials/do_action/do_action_header.php:1
+msgid "Register"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Signup"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Already have an account?"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Forgot password?"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Email"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+msgid "Send email"
+msgstr ""
+
+#: public/partials/do_action/do_action_header.php:1
+msgid "Welcome"
+msgstr ""
+
+#: public/partials/do_action/do_action_header.php:1
+msgid "My account"
+msgstr ""
+
+#: public/partials/do_action/do_action_header.php:1
+msgid "Logout"
+msgstr ""
+
+#: public/partials/do_action/do_action_header.php:1 searchform.php:1
+msgid "Search.."
+msgstr ""
+
+#: public/partials/do_action/do_action_home.php:1
+msgid "Film Box Office"
+msgstr ""
+
+#: public/partials/do_action/do_action_home.php:1
+msgid "See more"
+msgstr ""
+
+#: public/partials/do_action/do_action_home.php:1
+msgid "Last"
+msgstr ""
+
+#: public/partials/do_action/do_action_home.php:1
+msgid "Last Episodes"
+msgstr ""
+
+#: public/partials/do_action/do_action_home.php:1
+msgid "Serie Box Office"
+msgstr ""
+
+#: public/partials/do_action/do_action_series.php:54
+#: public/partials/do_action/do_action_single.php:196
+msgid "views"
+msgstr ""
+
+#: public/partials/do_action/do_action_series.php:89
+#: public/partials/do_action/do_action_single.php:225
+msgid "Trailer"
+msgstr ""
+
+#: public/partials/do_action/do_action_series.php:120
+#: public/partials/do_action/do_action_series.php:190
+#: public/partials/do_action/do_action_series.php:267 taxonomy-seasons.php:11
+msgid "Season"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:45 taxonomy-episodes.php:21
+msgid "Download Links"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:53 taxonomy-episodes.php:29
+msgid "Server"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:54 taxonomy-episodes.php:30
+msgid "Lang"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:55 taxonomy-episodes.php:31
+msgid "Quality"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:56 taxonomy-episodes.php:32
+msgid "Link"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:343
+msgid "Recommended Movies"
+msgstr ""
+
+#: public/partials/template/home-search.php:6
+msgid "Search..."
+msgstr ""
+
+#: public/partials/template/movies-main.php:31
+#: public/partials/template/movies-mainbig.php:13
+#: public/partials/template/movies-related.php:20
+msgid "View Movie"
+msgstr ""
+
+#: public/partials/template/movies-main.php:32
+#: public/partials/template/movies-mainbig.php:13
+#: public/partials/template/movies-related.php:20
+msgid "View Serie"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "torofilm"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://torothemes.com/themes/torofilm"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Theme for movies"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ToroThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://torothemes.com/"
+msgstr ""

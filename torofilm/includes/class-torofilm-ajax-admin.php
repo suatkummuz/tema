@@ -1,0 +1,1 @@
+<?phpclass TOROFILM_admin_ajax {}

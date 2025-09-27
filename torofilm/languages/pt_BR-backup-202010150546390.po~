@@ -1,0 +1,741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: torofilm\n"
+"POT-Creation-Date: 2020-10-15 00:34-0500\n"
+"PO-Revision-Date: 2020-10-15 00:34-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:1
+#, fuzzy
+msgid "Oops!..."
+msgstr "Oops!..."
+
+#: 404.php:1
+#, fuzzy
+msgid "The page you are looking for does not exist..."
+msgstr "A página que você está procurando não existe..."
+
+#: 404.php:1
+#, fuzzy
+msgid "Back to Home"
+msgstr "Voltar para Início"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Default"
+msgstr "Padrão"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Colors"
+msgstr "Cores"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Links Color"
+msgstr "Cor do Link"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Links Color Hover"
+msgstr "Cor dos links ao passar o mouse"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Primary Color"
+msgstr "Cor Primária"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Secondary Color"
+msgstr "Cor secundária"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Tertiary Color"
+msgstr "Cor Terciária"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Dark Color"
+msgstr "Cor Escura"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Light Color"
+msgstr "Cor clara"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Gray Color"
+msgstr "Cor Cinza"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Gray Dark Color"
+msgstr "Cor cinza escuro"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Gray Light Color"
+msgstr "Cor cinza claro"
+
+#: archive-movies.php:1 author.php:1 category.php:1
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Movies"
+msgstr "Filmes"
+
+#: archive-series.php:1 author.php:1 category.php:1
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Series"
+msgstr "Séries"
+
+#: author.php:1
+#, fuzzy
+msgid "You haven't written anything about yourself"
+msgstr "Você não escreveu nada sobre você"
+
+#: author.php:1 public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_series.php:1
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: author.php:1 public/partials/do_action/do_action_series.php:1
+#, fuzzy
+msgid "Episodes"
+msgstr "Episódios"
+
+#: author.php:1
+#, fuzzy
+msgid "Settings"
+msgstr "Configurações"
+
+#: author.php:1
+#, fuzzy
+msgid "Favorites Movies"
+msgstr "Filmes favoritos"
+
+#: author.php:1
+#, fuzzy
+msgid "No results"
+msgstr "Sem resultados"
+
+#: author.php:1
+#, fuzzy
+msgid "Favorites Series"
+msgstr "Série Favoritos"
+
+#: author.php:1
+#, fuzzy
+msgid "Favorites Episodes"
+msgstr "Episódios favoritos"
+
+#: author.php:1
+#, fuzzy
+msgid "Edit profile"
+msgstr "Editar perfil"
+
+#: author.php:1
+#, fuzzy
+msgid "Country"
+msgstr "País"
+
+#: author.php:1
+#, fuzzy
+msgid "Select your country"
+msgstr "Selecione seu país."
+
+#: author.php:1
+#, fuzzy
+msgid "Date of birth"
+msgstr "Data de nascimento"
+
+#: author.php:1
+#, fuzzy
+msgid "About you"
+msgstr "Sobre você"
+
+#: author.php:1
+#, fuzzy
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: author.php:1
+#, fuzzy
+msgid "Change password"
+msgstr "Mudar senha"
+
+#: author.php:1
+#, fuzzy
+msgid "Current password"
+msgstr "Senha atual"
+
+#: author.php:1
+#, fuzzy
+msgid "New password"
+msgstr "Nova senha"
+
+#: author.php:1
+#, fuzzy
+msgid "Repeat password"
+msgstr "Repetir Senha"
+
+#: author.php:1
+#, fuzzy
+msgid "Update Password"
+msgstr "Atualizar Senha"
+
+#: category.php:1 includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1 search.php:1
+#, fuzzy
+msgid "All"
+msgstr "Todos"
+
+#: category.php:1 includes/widgets/torofilm_widget_news.php:1 search.php:1
+#, fuzzy
+msgid "News"
+msgstr "Notícias"
+
+#: comments.php:1 includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#: public/partials/template/post-main.php:1
+#, fuzzy
+msgid "Comments"
+msgstr "Comentários"
+
+#: comments.php:1
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: helpers/theme-updater/updater/theme-updater.php:23
+#, fuzzy
+msgid "Theme License"
+msgstr "Licença do Tema"
+
+#: helpers/theme-updater/updater/theme-updater.php:24
+#, fuzzy
+msgid "Enter your theme license key."
+msgstr "Digite sua chave de licença do tema."
+
+#: helpers/theme-updater/updater/theme-updater.php:25
+#, fuzzy
+msgid "License Key"
+msgstr "Chave da licença"
+
+#: helpers/theme-updater/updater/theme-updater.php:26
+#, fuzzy
+msgid "License Action"
+msgstr "Ação da licença"
+
+#: helpers/theme-updater/updater/theme-updater.php:27
+#, fuzzy
+msgid "Deactivate License"
+msgstr "Desativar Licença"
+
+#: helpers/theme-updater/updater/theme-updater.php:28
+#, fuzzy
+msgid "Activate License"
+msgstr "Ativar Licença"
+
+#: helpers/theme-updater/updater/theme-updater.php:29
+#: helpers/theme-updater/updater/theme-updater.php:41
+#, fuzzy
+msgid "License status is unknown."
+msgstr "O status da licença é desconhecido."
+
+#: helpers/theme-updater/updater/theme-updater.php:30
+#, fuzzy
+msgid "Renew?"
+msgstr "Renovar?"
+
+#: helpers/theme-updater/updater/theme-updater.php:31
+#, fuzzy
+msgid "unlimited"
+msgstr "ilimitado"
+
+#: helpers/theme-updater/updater/theme-updater.php:32
+#, fuzzy
+msgid "License key is active."
+msgstr "A chave de licença está ativa."
+
+#: helpers/theme-updater/updater/theme-updater.php:33
+#, fuzzy, php-format
+msgid "Expires %s."
+msgstr "Expira %s."
+
+#: helpers/theme-updater/updater/theme-updater.php:34
+#, fuzzy, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Você tem %1$s / %2$s sites ativados."
+
+#: helpers/theme-updater/updater/theme-updater.php:35
+#, fuzzy, php-format
+msgid "License key expired %s."
+msgstr "Chave de licença expirou %s."
+
+#: helpers/theme-updater/updater/theme-updater.php:36
+#, fuzzy
+msgid "License key has expired."
+msgstr "A chave de licença expirou."
+
+#: helpers/theme-updater/updater/theme-updater.php:37
+#, fuzzy
+msgid "License keys do not match."
+msgstr "As chaves de licença não correspondem."
+
+#: helpers/theme-updater/updater/theme-updater.php:38
+#, fuzzy
+msgid "License is inactive."
+msgstr "A licença está inativa."
+
+#: helpers/theme-updater/updater/theme-updater.php:39
+#, fuzzy
+msgid "License key is disabled."
+msgstr "A chave de licença está desativada."
+
+#: helpers/theme-updater/updater/theme-updater.php:40
+#, fuzzy
+msgid "Site is inactive."
+msgstr "Site está inativo."
+
+#: helpers/theme-updater/updater/theme-updater.php:42
+#, fuzzy
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Atualizar esse tema perderá todas as personalizações que você fez. Clique em "
+"'Cancelar' para parar, ou 'OK' para atualizar."
+
+#: helpers/theme-updater/updater/theme-updater.php:43
+#, fuzzy, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+"<strong>%1$s %2$s</strong> está disponível. <a href=\"%3$s\" class=\"thickbox"
+"\" title=\"%4s\">Confira o que há de novo</a> ou <a href=\"%5$s"
+"\"%6$s>atualize agora</a>."
+
+#: includes/class-torofilm-ajax-pubic.php:1
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_series.php:1 taxonomy-seasons.php:1
+#, fuzzy
+msgid "ago"
+msgstr "atrás"
+
+#: includes/class-torofilm-ajax-pubic.php:1
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_series.php:1 taxonomy-seasons.php:1
+#, fuzzy
+msgid "View"
+msgstr "Ver"
+
+#: includes/class-torofilm-ajax-pubic.php:1
+#, fuzzy
+msgid "Results"
+msgstr "Resultados"
+
+#: includes/class-torofilm-ajax-pubic.php:1
+#, fuzzy
+msgid "More results"
+msgstr "Mais Resultados"
+
+#: includes/class-torofilm-ajax-pubic.php:1
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1 taxonomy-letters.php:1
+#: taxonomy-seasons.php:1
+#, fuzzy
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+#: includes/class-torofilm-sidebar.php:1
+#, fuzzy
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: includes/class-torofilm-sidebar.php:1
+#, fuzzy
+msgid "Home Widgets"
+msgstr "Widgets da página \"Início\""
+
+#: includes/torofilm-functions.php:1
+#, fuzzy
+msgid "PREV"
+msgstr "ANTERIOR"
+
+#: includes/torofilm-functions.php:1
+#, fuzzy
+msgid "NEXT"
+msgstr "PRÓXIMO"
+
+#: includes/widgets/torofilm_widget_alphabet.php:1
+#: includes/widgets/torofilm_widget_annee.php:1
+#: includes/widgets/torofilm_widget_list_episodes.php:1
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Title"
+msgstr "Título"
+
+#: includes/widgets/torofilm_widget_list_episodes.php:1
+#: public/partials/template/post-main.php:1
+#, fuzzy
+msgid "Read more"
+msgstr "Leia mais"
+
+#: includes/widgets/torofilm_widget_list_episodes.php:1
+#, fuzzy
+msgid "Number of items"
+msgstr "Número de itens"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "View more"
+msgstr "Ver mais"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#, fuzzy
+msgid "Number of movies/series"
+msgstr "Número de filmes/séries"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Filter by"
+msgstr "Filtrar por"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Latest"
+msgstr "Mais recentes"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Random"
+msgstr "Aleatório"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Views"
+msgstr "Visualizações"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Popular"
+msgstr "Popular"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Category Filter"
+msgstr "Filtro de Categoria"
+
+#: includes/widgets/torofilm_widget_news.php:1
+#, fuzzy
+msgid "Number of news"
+msgstr "Número de notícias"
+
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Activate"
+msgstr "Ativar"
+
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Number"
+msgstr "Número"
+
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_series.php:1
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Director"
+msgstr "Diretor"
+
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_series.php:1
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Cast"
+msgstr "Elenco"
+
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Download"
+msgstr "Download"
+
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_single.php:1
+#: public/partials/template/movies/player.php:1
+#, fuzzy
+msgid "OPTIONS"
+msgstr "OPÇÕES"
+
+#: public/partials/do_action/do_action_episodes.php:1
+#, fuzzy
+msgid "OPTION "
+msgstr "OPÇÃO"
+
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_series.php:1
+#, fuzzy
+msgid "choose season"
+msgstr "escolha a estação"
+
+#: public/partials/do_action/do_action_episodes.php:1
+#: public/partials/do_action/do_action_series.php:1
+#, fuzzy
+msgid "Seasons"
+msgstr "Temporadas"
+
+#: public/partials/do_action/do_action_footer.php:1
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Login"
+msgstr "Entrar"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "User"
+msgstr "Usuário"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Password"
+msgstr "Senha"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Forgot your password?"
+msgstr "Esqueceu sua senha?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Dont have account?"
+msgstr "Não tem conta?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Sign Up"
+msgstr "Inscrever-se"
+
+#: public/partials/do_action/do_action_footer.php:1
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Register"
+msgstr "Registrar"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Signup"
+msgstr "Cadastre-se"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Already have an account?"
+msgstr "Já tem uma conta?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Forgot password?"
+msgstr "Esqueceu a senha?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Send email"
+msgstr "Enviar e-mail"
+
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "My account"
+msgstr "Minha conta"
+
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Logout"
+msgstr "Sair"
+
+#: public/partials/do_action/do_action_header.php:1 searchform.php:1
+#, fuzzy
+msgid "Search.."
+msgstr "Buscar..."
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Film Box Office"
+msgstr "Filme bilheteria"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "See more"
+msgstr "Veja mais"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Last"
+msgstr "Último"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Last Episodes"
+msgstr "Últimos Episódios"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Serie Box Office"
+msgstr "Bilheteria da série"
+
+#: public/partials/do_action/do_action_series.php:1
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "views"
+msgstr "visualizações"
+
+#: public/partials/do_action/do_action_series.php:1
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Trailer"
+msgstr "Trailer"
+
+#: public/partials/do_action/do_action_series.php:1 taxonomy-seasons.php:1
+#, fuzzy
+msgid "Season"
+msgstr "Temporada"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Download Links"
+msgstr "Links Para Baixar"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Server"
+msgstr "Servidor"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Lang"
+msgstr "Idioma"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Quality"
+msgstr "Qualidade"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Link"
+msgstr "Link"
+
+#: public/partials/do_action/do_action_single.php:1
+#: public/partials/template/movies/player.php:1
+#, fuzzy
+msgid "OPTION"
+msgstr "OPÇÃO"
+
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Recommended Movies"
+msgstr "Filmes recomendados"
+
+#: public/partials/template/home-search.php:1
+#, fuzzy
+msgid "Search..."
+msgstr "Pesquisar..."
+
+#: public/partials/template/movies-main.php:1
+#: public/partials/template/movies-mainbig.php:1
+#: public/partials/template/movies-related.php:1
+#, fuzzy
+msgid "View Movie"
+msgstr "Ver Filme"
+
+#: public/partials/template/movies-main.php:1
+#: public/partials/template/movies-mainbig.php:1
+#: public/partials/template/movies-related.php:1
+#, fuzzy
+msgid "View Serie"
+msgstr "Ver Série"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "torofilm"
+msgstr "torofilme"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/themes/torofilm"
+msgstr "https://torothemes.com/themes/torofilm"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Theme for movies"
+msgstr "Tema para filmes"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ToroThemes"
+msgstr "ToroThemes"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/"
+msgstr "https://torothemes.com/"

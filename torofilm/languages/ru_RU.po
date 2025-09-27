@@ -1,0 +1,784 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: torofilm\n"
+"POT-Creation-Date: 2020-10-15 05:46+0000\n"
+"PO-Revision-Date: 2020-10-15 05:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.0; wp-5.5.1"
+
+#: 404.php:1
+#, fuzzy
+msgid "Oops!..."
+msgstr "Упс!..."
+
+#: 404.php:1
+#, fuzzy
+msgid "The page you are looking for does not exist..."
+msgstr "Страницы, которую вы ищете, не существует..."
+
+#: 404.php:1
+#, fuzzy
+msgid "Back to Home"
+msgstr "Вернуться на главную"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Colors"
+msgstr "Цвета"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Links Color Hover"
+msgstr "Ссылки Цвет виселицы"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Secondary Color"
+msgstr "Вторичный цвет"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Tertiary Color"
+msgstr "Третичный цвет"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Dark Color"
+msgstr "Темный цвет"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Light Color"
+msgstr "Светлый цвет"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Gray Color"
+msgstr "Серый цвет"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Gray Dark Color"
+msgstr "Серый темный цвет"
+
+#: admin/customizer/class-torofilm-color.php:1
+#, fuzzy
+msgid "Gray Light Color"
+msgstr "Серый светлый цвет"
+
+#: archive-movies.php:1 author.php:1 category.php:27
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Movies"
+msgstr "Фильмы"
+
+#: archive-series.php:1 author.php:1 category.php:28
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Series"
+msgstr "Серии"
+
+#: author.php:1
+#, fuzzy
+msgid "You haven't written anything about yourself"
+msgstr "Ты ничего о себе не написал"
+
+#: author.php:1 public/partials/do_action/do_action_episodes.php:81
+#: public/partials/do_action/do_action_series.php:92
+#: public/partials/do_action/do_action_single.php:231
+#, fuzzy
+msgid "Favorites"
+msgstr "Избранное"
+
+#: author.php:1 public/partials/do_action/do_action_series.php:60
+#, fuzzy
+msgid "Episodes"
+msgstr "Эпизоды"
+
+#: author.php:1
+#, fuzzy
+msgid "Settings"
+msgstr "Настройки"
+
+#: author.php:1
+#, fuzzy
+msgid "Favorites Movies"
+msgstr "Любимые фильмы"
+
+#: author.php:1
+#, fuzzy
+msgid "No results"
+msgstr "Нет результатов"
+
+#: author.php:1
+#, fuzzy
+msgid "Favorites Series"
+msgstr "Серия избранного"
+
+#: author.php:1
+#, fuzzy
+msgid "Favorites Episodes"
+msgstr "Избранные эпизоды"
+
+#: author.php:1
+#, fuzzy
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+#: author.php:1
+msgid "Change avatar"
+msgstr ""
+
+#: author.php:1
+msgid "Choose image"
+msgstr ""
+
+#: author.php:1
+#, fuzzy
+msgid "Country"
+msgstr "Страна"
+
+#: author.php:1
+#, fuzzy
+msgid "Select your country"
+msgstr "Выберите страну"
+
+#: author.php:1
+#, fuzzy
+msgid "Date of birth"
+msgstr "Дата рождения"
+
+#: author.php:1
+#, fuzzy
+msgid "About you"
+msgstr "О вас"
+
+#: author.php:1
+#, fuzzy
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: author.php:1
+#, fuzzy
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: author.php:1
+#, fuzzy
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#: author.php:1
+#, fuzzy
+msgid "New password"
+msgstr "Новый пароль"
+
+#: author.php:1
+#, fuzzy
+msgid "Repeat password"
+msgstr "Повторите пароль"
+
+#: author.php:1
+#, fuzzy
+msgid "Update Password"
+msgstr "Обновить пароль"
+
+#: category.php:26 includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:51 search.php:27
+#, fuzzy
+msgid "All"
+msgstr "Все"
+
+#: category.php:29 includes/widgets/torofilm_widget_news.php:171 search.php:28
+#, fuzzy
+msgid "News"
+msgstr "Новости"
+
+#: comments.php:1 includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:180
+#: public/partials/template/post-main.php:10
+#, fuzzy
+msgid "Comments"
+msgstr "Комментарии"
+
+#: comments.php:1
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: helpers/theme-updater/updater/theme-updater.php:23
+#, fuzzy
+msgid "Theme License"
+msgstr "Лицензия темы"
+
+#: helpers/theme-updater/updater/theme-updater.php:24
+#, fuzzy
+msgid "Enter your theme license key."
+msgstr "Введите номер лицензионного ключа."
+
+#: helpers/theme-updater/updater/theme-updater.php:25
+#, fuzzy
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: helpers/theme-updater/updater/theme-updater.php:26
+#, fuzzy
+msgid "License Action"
+msgstr "Действие лицензии"
+
+#: helpers/theme-updater/updater/theme-updater.php:27
+#, fuzzy
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: helpers/theme-updater/updater/theme-updater.php:28
+#, fuzzy
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: helpers/theme-updater/updater/theme-updater.php:29
+#: helpers/theme-updater/updater/theme-updater.php:41
+#, fuzzy
+msgid "License status is unknown."
+msgstr "Статус лицензии неизвестен."
+
+#: helpers/theme-updater/updater/theme-updater.php:30
+#, fuzzy
+msgid "Renew?"
+msgstr "Обновить?"
+
+#: helpers/theme-updater/updater/theme-updater.php:31
+#, fuzzy
+msgid "unlimited"
+msgstr "неограниченный"
+
+#: helpers/theme-updater/updater/theme-updater.php:32
+#, fuzzy
+msgid "License key is active."
+msgstr "Лицензионный ключ активен."
+
+#: helpers/theme-updater/updater/theme-updater.php:33
+#, fuzzy, php-format
+msgid "Expires %s."
+msgstr "Истекает %s."
+
+#: helpers/theme-updater/updater/theme-updater.php:34
+#, fuzzy, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "У вас есть активированных %1$s / %2$s  сайтов."
+
+#: helpers/theme-updater/updater/theme-updater.php:35
+#, fuzzy, php-format
+msgid "License key expired %s."
+msgstr "Срок действия ключа лицензии истекает %s."
+
+#: helpers/theme-updater/updater/theme-updater.php:36
+#, fuzzy
+msgid "License key has expired."
+msgstr "Срок действия лицензионного ключа истек."
+
+#: helpers/theme-updater/updater/theme-updater.php:37
+#, fuzzy
+msgid "License keys do not match."
+msgstr "Лицензионные ключи не совпадают."
+
+#: helpers/theme-updater/updater/theme-updater.php:38
+#, fuzzy
+msgid "License is inactive."
+msgstr "Лицензия находится в неактивном состоянии."
+
+#: helpers/theme-updater/updater/theme-updater.php:39
+#, fuzzy
+msgid "License key is disabled."
+msgstr "Лицензионный ключ отключен."
+
+#: helpers/theme-updater/updater/theme-updater.php:40
+#, fuzzy
+msgid "Site is inactive."
+msgstr "Сайт неактивен."
+
+#: includes/class-torofilm-ajax-pubic.php:45
+#: public/partials/do_action/do_action_episodes.php:251
+#: public/partials/do_action/do_action_series.php:166
+#: public/partials/do_action/do_action_series.php:232
+#: public/partials/do_action/do_action_series.php:298 taxonomy-seasons.php:51
+#, fuzzy
+msgid "ago"
+msgstr "назад"
+
+#: includes/class-torofilm-ajax-pubic.php:48
+#: public/partials/do_action/do_action_episodes.php:254
+#: public/partials/do_action/do_action_series.php:169
+#: public/partials/do_action/do_action_series.php:235 taxonomy-seasons.php:53
+#, fuzzy
+msgid "View"
+msgstr "Просмотр"
+
+#: includes/class-torofilm-ajax-pubic.php:204
+#: includes/class-torofilm-ajax-pubic.php:235
+#, fuzzy
+msgid "Results"
+msgstr "Результаты"
+
+#: includes/class-torofilm-ajax-pubic.php:213
+#: includes/class-torofilm-ajax-pubic.php:244
+#, fuzzy
+msgid "More results"
+msgstr "Дополнительные результаты"
+
+#: includes/class-torofilm-ajax-pubic.php:216
+#: includes/class-torofilm-ajax-pubic.php:247
+#: includes/class-torofilm-ajax-pubic.php:306
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:130 taxonomy-letters.php:1
+#: taxonomy-seasons.php:60
+#, fuzzy
+msgid "No results found"
+msgstr "Результатов не найдено"
+
+#: includes/class-torofilm-sidebar.php:1
+#, fuzzy
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: includes/class-torofilm-sidebar.php:1
+#, fuzzy
+msgid "Home Widgets"
+msgstr "Виджеты главной"
+
+#: includes/customizer.php:67
+msgid "Home"
+msgstr ""
+
+#: includes/customizer.php:322
+msgid "Text \"Option\" in player options"
+msgstr ""
+
+#: includes/customizer.php:390
+msgid "Poster Option"
+msgstr ""
+
+#: includes/customizer.php:402
+msgid "Poster Option View"
+msgstr ""
+
+#: includes/customizer.php:403
+msgid "Select options to show in poster of series and movies"
+msgstr ""
+
+#: includes/customizer.php:414
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer.php:426 includes/customizer.php:437
+msgid "Text"
+msgstr ""
+
+#: includes/torofilm-functions.php:24
+#, fuzzy
+msgid "PREV"
+msgstr "НАЗАД"
+
+#: includes/torofilm-functions.php:43
+#, fuzzy
+msgid "NEXT"
+msgstr "СЛЕД"
+
+#: includes/torofilm-functions.php:161 includes/torofilm-functions.php:166
+#: includes/torofilm-functions.php:168 includes/torofilm-functions.php:175
+#: includes/torofilm-functions.php:179 includes/torofilm-functions.php:181
+#: includes/torofilm-functions.php:192 includes/torofilm-functions.php:194
+#: includes/torofilm-functions.php:198
+#, php-format
+msgid "Image %s"
+msgstr ""
+
+#: includes/torofilm-functions.php:211 includes/torofilm-functions.php:215
+#: includes/torofilm-functions.php:217
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/torofilm_widget_alphabet.php:1
+#: includes/widgets/torofilm_widget_annee.php:1
+#: includes/widgets/torofilm_widget_list_episodes.php:73
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:157
+#: includes/widgets/torofilm_widget_news.php:178
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/widgets/torofilm_widget_list_episodes.php:27
+#: public/partials/template/post-main.php:16
+#, fuzzy
+msgid "Read more"
+msgstr "Подробнее"
+
+#: includes/widgets/torofilm_widget_list_episodes.php:77
+#, fuzzy
+msgid "Number of items"
+msgstr "Количество элементов"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:45
+#, fuzzy
+msgid "View more"
+msgstr "Показать еще"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#, fuzzy
+msgid "Number of movies/series"
+msgstr "Количество фильмов/серий"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:169
+#, fuzzy
+msgid "Type"
+msgstr "Тип"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:175
+#, fuzzy
+msgid "Filter by"
+msgstr "Фильтр по"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:177
+#, fuzzy
+msgid "Latest"
+msgstr "Последние"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:179
+#, fuzzy
+msgid "Random"
+msgstr "Случайно"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:181
+#, fuzzy
+msgid "Views"
+msgstr "Просмотры"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:182
+#, fuzzy
+msgid "Popular"
+msgstr "Популярные"
+
+#: includes/widgets/torofilm_widget_list_movies_series.php:1
+#: includes/widgets/torofilm_widget_news.php:185
+#, fuzzy
+msgid "Category Filter"
+msgstr "Фильтр категорий"
+
+#: includes/widgets/torofilm_widget_news.php:161
+#, fuzzy
+msgid "Number of news"
+msgstr "Количествко новостей"
+
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Activate"
+msgstr "Активировать"
+
+#: includes/widgets/torofilm_widget_popular.php:1
+#, fuzzy
+msgid "Number"
+msgstr "Номер"
+
+#: public/partials/do_action/do_action_episodes.php:61
+#: public/partials/do_action/do_action_series.php:70
+#: public/partials/do_action/do_action_single.php:206
+#, fuzzy
+msgid "Director"
+msgstr "Режиссер"
+
+#: public/partials/do_action/do_action_episodes.php:66
+#: public/partials/do_action/do_action_series.php:76
+#: public/partials/do_action/do_action_single.php:212
+#, fuzzy
+msgid "Cast"
+msgstr "В ролях"
+
+#: public/partials/do_action/do_action_episodes.php:79
+#: public/partials/do_action/do_action_single.php:84
+#: public/partials/do_action/do_action_single.php:228 taxonomy-episodes.php:53
+#, fuzzy
+msgid "Download"
+msgstr "Скачать"
+
+#: public/partials/do_action/do_action_episodes.php:146
+#: public/partials/do_action/do_action_single.php:291
+#, fuzzy
+msgid "OPTIONS"
+msgstr "ПАРАМЕТРЫ"
+
+#: public/partials/do_action/do_action_episodes.php:150
+#: public/partials/do_action/do_action_single.php:295
+#, fuzzy
+msgid "OPTION"
+msgstr "ВАРИАНТ"
+
+#: public/partials/do_action/do_action_episodes.php:205
+#: public/partials/do_action/do_action_series.php:120
+#, fuzzy
+msgid "choose season"
+msgstr "сезон выбора"
+
+#: public/partials/do_action/do_action_episodes.php:205
+#: public/partials/do_action/do_action_series.php:57
+#, fuzzy
+msgid "Seasons"
+msgstr "Сезоны"
+
+#: public/partials/do_action/do_action_episodes.php:272
+#: public/partials/do_action/do_action_series.php:325
+msgid "Recommended Series"
+msgstr ""
+
+#: public/partials/do_action/do_action_footer.php:1
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Login"
+msgstr "Войти"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "User"
+msgstr "Пользователь"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Password"
+msgstr "Пароль"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Dont have account?"
+msgstr "Не имеете счета?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Sign Up"
+msgstr "Зарегистрироваться"
+
+#: public/partials/do_action/do_action_footer.php:1
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Register"
+msgstr "Регистрация"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Signup"
+msgstr "Регистрация"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Already have an account?"
+msgstr "Уже есть аккаунт?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Email"
+msgstr "Email"
+
+#: public/partials/do_action/do_action_footer.php:1
+#, fuzzy
+msgid "Send email"
+msgstr "Оправить письмо"
+
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "My account"
+msgstr "Мой аккаунт"
+
+#: public/partials/do_action/do_action_header.php:1
+#, fuzzy
+msgid "Logout"
+msgstr "Выйти"
+
+#: public/partials/do_action/do_action_header.php:1 searchform.php:1
+#, fuzzy
+msgid "Search.."
+msgstr "Поиск.."
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Film Box Office"
+msgstr "Фильм Кассета"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "See more"
+msgstr "Узнать больше"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Last"
+msgstr "Последний"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Last Episodes"
+msgstr "Последние эпизоды"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Serie Box Office"
+msgstr "Серийная касса"
+
+#: public/partials/do_action/do_action_series.php:54
+#: public/partials/do_action/do_action_single.php:196
+#, fuzzy
+msgid "views"
+msgstr "просмотров"
+
+#: public/partials/do_action/do_action_series.php:89
+#: public/partials/do_action/do_action_single.php:225
+#, fuzzy
+msgid "Trailer"
+msgstr "Трейлер"
+
+#: public/partials/do_action/do_action_series.php:120
+#: public/partials/do_action/do_action_series.php:190
+#: public/partials/do_action/do_action_series.php:267 taxonomy-seasons.php:11
+#, fuzzy
+msgid "Season"
+msgstr "Сезон"
+
+#: public/partials/do_action/do_action_single.php:45 taxonomy-episodes.php:21
+#, fuzzy
+msgid "Download Links"
+msgstr "Ссылки для скачивания"
+
+#: public/partials/do_action/do_action_single.php:53 taxonomy-episodes.php:29
+#, fuzzy
+msgid "Server"
+msgstr "Сервер"
+
+#: public/partials/do_action/do_action_single.php:54 taxonomy-episodes.php:30
+#, fuzzy
+msgid "Lang"
+msgstr "Язык"
+
+#: public/partials/do_action/do_action_single.php:55 taxonomy-episodes.php:31
+#, fuzzy
+msgid "Quality"
+msgstr "Качество"
+
+#: public/partials/do_action/do_action_single.php:56 taxonomy-episodes.php:32
+#, fuzzy
+msgid "Link"
+msgstr "Ссылка"
+
+#: public/partials/do_action/do_action_single.php:343
+#, fuzzy
+msgid "Recommended Movies"
+msgstr "Рекомендуемые фильмы"
+
+#: public/partials/template/home-search.php:6
+#, fuzzy
+msgid "Search..."
+msgstr "Поиск..."
+
+#: public/partials/template/movies-main.php:31
+#: public/partials/template/movies-mainbig.php:13
+#: public/partials/template/movies-related.php:20
+#, fuzzy
+msgid "View Movie"
+msgstr "Посмотреть видео"
+
+#: public/partials/template/movies-main.php:32
+#: public/partials/template/movies-mainbig.php:13
+#: public/partials/template/movies-related.php:20
+#, fuzzy
+msgid "View Serie"
+msgstr "Посмотреть серию"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "torofilm"
+msgstr "торофильм"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/themes/torofilm"
+msgstr "https://torothemes.com/themes/torofilm"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Theme for movies"
+msgstr "Тема для кино"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ToroThemes"
+msgstr "Торотемы"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/"
+msgstr "https://torothemes.com/"
